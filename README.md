@@ -1,5 +1,4 @@
 # DataScienceBeginnerToPro
-# DataScienceBeginnerToPro
 
 ---
 
